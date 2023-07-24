@@ -1,0 +1,227 @@
+.nav-button {
+  padding: 10px 40px;
+  border-radius: 100px;
+  color: white;
+}
+
+.divvv-1 {
+  background: #BB2339;
+}
+
+.nav-button:hover {
+  background-color: #FFF;
+  color: #BB2339;
+}
+
+.div-text {
+  color: #242424;
+  font-size: 64px;
+  margin-top: 170px;
+  margin-left: 520px;
+}
+
+.div-img {
+  margin-left: 630px;
+  margin-top: 0px;
+}
+
+.div-text-2 {
+  width: 720px;
+  color: #242424;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+  margin-left: 330px;
+  margin-top: 40px;
+}
+
+.div-img-2 {
+  width: 620px;
+  height: 540px;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background: lightgray -66.954px -6.086px/118.598% 100.951% no-repeat;
+  margin-left: 330px;
+}
+
+.div-text-3 {
+  width: 720px;
+  color: #242424;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+  margin-left: 330px;
+  margin-top: 30px;
+}
+
+.footer-div {
+  width: 100%;
+  height: 610px;
+  background-color: #BB2339;
+  margin-top: 340px;
+}
+
+.footer-div-2 {
+  height: 400px;
+  width: 1000px;
+  margin-left: 180px;
+  margin-top: -810px;
+  border-radius: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  background: #BB2339;
+  box-shadow: 22px 30px 95px 1px rgba(86, 86, 86, 0.2);
+}
+
+.footer-text {
+  color: #FFF;
+  font-size: 23px;
+  margin-left: 450px;
+  margin-top: 64px;
+}
+
+.footer-text-2 {
+  width: 902px;
+  color: #FFF;
+  font-size: 48px;
+  margin-left: 210px;
+}
+
+.footer-text-3 {
+  color: #FFF;
+  margin-left: 400px;
+  font-size: 16px;
+  margin-top: 24px;
+}
+
+.footer-input {
+  width: 535px;
+  height: 52px;
+  flex-shrink: 0;
+  border-radius: 100px;
+  border: 1px solid rgba(245, 239, 219, 0.5);
+  background-color: #BB2339;
+  margin-left: 120px;
+  margin-top: 64px;
+}
+
+.footer-button {
+  padding: 12px 32px;
+  gap: 10px;
+  border-radius: 100px;
+  border: 1px solid #FFF;
+  background-color: #BB2339;
+  color: #FFF;
+  margin-left: 30px;
+}
+
+.footer-button:hover {
+  background-color: #FFF;
+  color: #BB2339;
+}
+
+.footer-text-4 {
+  color: #FFF;
+  font-size: 32px;
+  margin-left: 110px;
+  top: 2070px;
+  position: absolute;
+}
+
+.footer-text-5 {
+  color: #FFF;
+  top: 2130px;
+  position: absolute;
+  margin-left: 70px;
+  font-size: 16px;
+}
+
+.footer-text-6 {
+  margin-left: 120px;
+  color: #FFF;
+  font-size: 16px;
+  top: 2170px;
+  position: absolute;
+}
+
+.footer-img {
+  margin-left: 540px;
+  top: 1950px;
+  position: absolute;
+  width: 236px;
+  height: 87px;
+}
+
+.footer-text-7 {
+  width: 438px;
+  color: #FFF;
+  text-align: center;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+  margin-left: 450px;
+  top: 2050px;
+  position: absolute;
+}
+
+.footer-img-2 {
+  margin-left: 605px;
+  top: 2150px;
+  position: absolute;
+}
+
+.footer-text-8 {
+  color: #FFF;
+  font-size: 16px;
+  margin-left: 545px;
+  top: 2250px;
+  position: absolute;
+}
+
+.footer-text-9 {
+  color: #FFF;
+  font-size: 32px;
+  margin-left: 1050px;
+  top: 2070px;
+  position: absolute;
+}
+
+.footer-text-10 {
+  color: #FFF;
+  font-size: 16px;
+  margin-left: 1100px;
+  top: 2120px;
+  position: absolute;
+  text-align: center;
+}
+
+.footer-text-11 {
+  color: #FFF;
+  font-size: 16px;
+  margin-left: 1100px;
+  top: 2170px;
+  position: absolute;
+  text-align: center;
+}
+
+#myBtn {
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  bottom: 20px; /* Place the button at the bottom of the page */
+  right: 30px; /* Place the button 30px from the right */
+  z-index: 99999; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color: orange; /* Set a background color */
+  color: white; /* Text color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 15px; /* Some padding */
+  border-radius: 10px; /* Rounded corners */
+  font-size: 18px; /* Increase font size */
+}
+
+#myBtn:hover {
+  background-color: black; /* Add a dark-grey background on hover */
+}
